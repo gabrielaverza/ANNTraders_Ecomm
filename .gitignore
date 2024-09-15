@@ -1,0 +1,17 @@
+# SO
+*.DS_Store
+*.swp
+
+# Python
+*.pyc
+__pycache__/
+env/
+.venv/
+
+# Django
+db.sqlite3
+/media/
+/staticfiles/
+
+# Config
+.env
